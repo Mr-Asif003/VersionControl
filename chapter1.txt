@@ -1,1 +1,2 @@
-hello i am learning version control
+hello i am learning version control 
+and now this is Version 2
